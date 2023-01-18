@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool wordPattern(string pattern, string s) {
-        
+        // yt ayu Sha
         
         vector<string>v;
         int i=0; 
